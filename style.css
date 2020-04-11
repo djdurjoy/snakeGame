@@ -111,7 +111,7 @@ body {
 }
 
 .buttons {
-    margin-left: 15rem;
+    margin-left: 20rem !mportant;
 }
 
 .btn-circle {
