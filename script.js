@@ -159,7 +159,7 @@ function snakeLength() {
         dead.play();
         ctx.fillStyle = "red";
         ctx.fillRect(0,0,canvas.width,canvas.height);
-        window.location.replace("snakeL2.html");
+        window.location.replace("snakeSecond.html");
         // location.reload();
     }
 
