@@ -244,6 +244,8 @@ width: 35px !important;
     .lgHomebtn {
         display: none;
     }
+.btn3 {
+margin-top: -1rem;
 }
 
 @media only screen and (max-width: 776px) {
