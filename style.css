@@ -198,8 +198,8 @@ body {
     }
 
     .buttons {
-        margin-left: 8rem;
-        margin-top: 2rem;
+        margin-left: 6rem !important;
+        margin-top: 2rem !important;
     }
     
     .btn-circle {
