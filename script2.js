@@ -139,7 +139,7 @@ function snakeLength() {
         dead.play();
         ctx.fillStyle = "red";
         ctx.fillRect(0,0,canvas.width,canvas.height);
-        window.location.replace("snakeL3.html");
+        window.location.replace("snakeThird.html");
     }
 
     //snake eat food
