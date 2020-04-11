@@ -181,5 +181,5 @@ function snakeLength() {
 
 // end snakeLength function
 
-setInterval(snakeLength, 25);
+setInterval(snakeLength, 35);
 snakeLength();
